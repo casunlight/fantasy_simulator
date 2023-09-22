@@ -1,0 +1,272 @@
+[
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Scottie Scheffler",
+            "name_id": "Scottie Scheffler (29094735)",
+            "salary": 13400,
+            "proj": 100.0
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Rory McIlroy",
+            "name_id": "Rory McIlroy (29094736)",
+            "salary": 13000,
+            "proj": 88.08
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Viktor Hovland",
+            "name_id": "Viktor Hovland (29094737)",
+            "salary": 12500,
+            "proj": 88.26
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Jon Rahm",
+            "name_id": "Jon Rahm (29094738)",
+            "salary": 11600,
+            "proj": 89.37
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Max Homa",
+            "name_id": "Max Homa (29094739)",
+            "salary": 10900,
+            "proj": 79.89
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Patrick Cantlay",
+            "name_id": "Patrick Cantlay (29094740)",
+            "salary": 10800,
+            "proj": 83.94
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Xander Schauffele",
+            "name_id": "Xander Schauffele (29094741)",
+            "salary": 10500,
+            "proj": 83.6
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Matt Fitzpatrick",
+            "name_id": "Matt Fitzpatrick (29094742)",
+            "salary": 10000,
+            "proj": 65.19
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Lucas Glover",
+            "name_id": "Lucas Glover (29094743)",
+            "salary": 9700,
+            "proj": 61.85
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Brian Harman",
+            "name_id": "Brian Harman (29094744)",
+            "salary": 9500,
+            "proj": 68.28
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Wyndham Clark",
+            "name_id": "Wyndham Clark (29094745)",
+            "salary": 9100,
+            "proj": 75.44
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Rickie Fowler",
+            "name_id": "Rickie Fowler (29094746)",
+            "salary": 9000,
+            "proj": 77.85
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Tommy Fleetwood",
+            "name_id": "Tommy Fleetwood (29094747)",
+            "salary": 8800,
+            "proj": 72.15
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Sungjae Im",
+            "name_id": "Sungjae Im (29094748)",
+            "salary": 8500,
+            "proj": 71.62
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Russell Henley",
+            "name_id": "Russell Henley (29094749)",
+            "salary": 8300,
+            "proj": 66.48
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Keegan Bradley",
+            "name_id": "Keegan Bradley (29094750)",
+            "salary": 8100,
+            "proj": 68.24
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Tom Kim",
+            "name_id": "Tom Kim (29094751)",
+            "salary": 7900,
+            "proj": 71.96
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Corey Conners",
+            "name_id": "Corey Conners (29094752)",
+            "salary": 7900,
+            "proj": 68.33
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Collin Morikawa",
+            "name_id": "Collin Morikawa (29094753)",
+            "salary": 7700,
+            "proj": 72.04
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Tony Finau",
+            "name_id": "Tony Finau (29094754)",
+            "salary": 7500,
+            "proj": 72.46
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Jason Day",
+            "name_id": "Jason Day (29094755)",
+            "salary": 7400,
+            "proj": 68.0
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Si Woo Kim",
+            "name_id": "Si Woo Kim (29094756)",
+            "salary": 7200,
+            "proj": 65.27
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Tyrrell Hatton",
+            "name_id": "Tyrrell Hatton (29094757)",
+            "salary": 6900,
+            "proj": 78.93
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Jordan Spieth",
+            "name_id": "Jordan Spieth (29094758)",
+            "salary": 6700,
+            "proj": 64.76
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Taylor Moore",
+            "name_id": "Taylor Moore (29094759)",
+            "salary": 6500,
+            "proj": 58.57
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Sam Burns",
+            "name_id": "Sam Burns (29094760)",
+            "salary": 6100,
+            "proj": 62.96
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Emiliano Grillo",
+            "name_id": "Emiliano Grillo (29094761)",
+            "salary": 5700,
+            "proj": 64.59
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Sepp Straka",
+            "name_id": "Sepp Straka (29094762)",
+            "salary": 5400,
+            "proj": 60.17
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Adam Schenk",
+            "name_id": "Adam Schenk (29094763)",
+            "salary": 5200,
+            "proj": 58.05
+        }
+    },
+    {
+        "model": "golf.golfer",
+        "fields": {
+            "name": "Nick Taylor",
+            "name_id": "Nick Taylor (29094764)",
+            "salary": 5000,
+            "proj": 59.58
+        }
+    }
+]

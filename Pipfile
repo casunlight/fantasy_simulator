@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+numpy = "*"
+pandas = "*"
+requests = "*"
+openpyxl = "*"
+djangorestframework = "*"
+pulp = "*"
+psycopg2-binary = "*"
+pydfs-lineup-optimizer = "*"
+icecream = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"

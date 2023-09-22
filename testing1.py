@@ -1,0 +1,4 @@
+import psycopg2
+
+
+#pipenv install psycopg2-binary

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Template</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Salary</th>
+                <th>Proj</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in slate_list %}
+            <tr>
+                <td>{{ item.name }}</td>
+                <td>{{ item.salary }}</td>
+                <td>{{ item.proj }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
