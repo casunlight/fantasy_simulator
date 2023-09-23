@@ -14,6 +14,7 @@ pulp = "*"
 psycopg2-binary = "*"
 pydfs-lineup-optimizer = "*"
 icecream = "*"
+memory-profiler = "*"
 
 [dev-packages]
 ipykernel = "*"
